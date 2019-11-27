@@ -1,0 +1,15 @@
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/kafka/Attach.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/kafka/KafkaController.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/token/TokenServiceImpl.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/weixin/WeiXinResponseDTO.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/constants/SystemConstants.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/kafka/KafkaConfig.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/DemoApplication.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/constants/SystemConstantsHelper.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/utils/ApiIdempotent.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/utils/RedisService.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/weixin/WeiXinService.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/constants/SystemConstantsProperties.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/interceptor/ApiIdempotentInterceptor.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/token/ITokenService.java
+/Users/ellien/IdeaProjects/ci/web/src/main/java/com/el/gov/ci/web/utils/RestTemplateUtils.java
