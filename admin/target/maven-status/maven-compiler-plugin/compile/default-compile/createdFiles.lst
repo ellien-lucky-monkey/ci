@@ -1,5 +1,0 @@
-com/el/gov/ci/admin/AdminApplication.class
-com/el/gov/ci/admin/message/Message.class
-com/el/gov/ci/admin/kafka/KafkaConsumer.class
-com/el/gov/ci/admin/message/Message$MessageBuilder.class
-com/el/gov/ci/admin/datastruct/Arrary.class
